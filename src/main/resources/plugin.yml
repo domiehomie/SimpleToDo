@@ -1,0 +1,13 @@
+name: SimpleTodo
+version: ${project.version}
+main: live.mufin.simpletodo.SimpleTodo
+api-version: 1.17
+prefix: TD
+authors: [ mufinlive ]
+description: A simple, lightweight ToDo plugin for your Minecraft server!
+website: mufin.live
+
+commands:
+  todo:
+  simpletodo:
+  scrap:
